@@ -1,0 +1,16 @@
+---Tags---
+
+#  There are two types of tags i.e  
+    -Opening tag 
+    - Ending tag.
+
+#  For example we can take h1 where <h1> is Opening tag and  </h1> is Ending tag.
+
+# we can say that h1 without content is just tag.
+
+
+----Elements----
+
+#  The combination of Opening tag and Ending tag with content is called Element.
+
+# Example :- <h1> Nilesh kumar banara </h1>
